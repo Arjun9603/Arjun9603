@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arjun-raghav-74b97a166/" target="https://www.linkedin.com/in/arjun-raghav-74b97a166/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-raghav-74b97a166/" height="30" width="40" /></a>
+<a href="https://linkedin.com/.in/arjun-raghav-74b97a166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-raghav-74b97a166/" height="30" width="40" /></a>
 <a href="https://kaggle.com/arjun9603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arjun9603" height="30" width="40" /></a>
 <a href="https://instagram.com/arjun_____._76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjun_____._76" height="30" width="40" /></a>
 <a href="https://medium.com/@arjunraghav774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arjunraghav774" height="30" width="40" /></a>
