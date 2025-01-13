@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://github.com/Arjun9603/My-Resume](https://github.com/Arjun9603/My-Resume)
 
-- ⚡ Fun fact **I’ve been part of IIT Bombay’s Mood Indigo, blending tech and creativity!"**
+- ⚡ Fun fact **I’ve been a part of IIT Bombay’s Mood Indigo, blending tech and creativity!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
